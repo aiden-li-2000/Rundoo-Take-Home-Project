@@ -1,2 +1,2 @@
-./Rundoo/backend/env
-./Rundoo/frontend/node_modules
+.DS_Store
+.idea
