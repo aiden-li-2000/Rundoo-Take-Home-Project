@@ -24,6 +24,8 @@ npm install
 ```bash
 psql postgres postgres
 create database accounts owned by postgres
+
+# The initial database should be as shown in the image below
 \c accounts
 SELECT table_name FROM information_schema.tables WHERE table_schema = 'public';
 SELECT * FROM accounts_useraccount;
