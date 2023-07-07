@@ -45,7 +45,7 @@ npm start
 ![Alt text](image-3.png)
 
 
-## Features our database supports:
+## Features supported:
 
 - User Log In (With Verification)
 - User Log Out
