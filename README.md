@@ -2,7 +2,9 @@
 The web app currently supports user log-in authentication, user sign up, user log out, upload logos, and display uploaded logos.
 
 The code part for SMTP mail verification during user sign-up has been set but disabled for testing purpose.
+
 API endpoints are publicly accessible for testing purpose. 
+
 Uploaded images are stored locally in the /media folder for testing purpose.
 
 ## Tech Stack
