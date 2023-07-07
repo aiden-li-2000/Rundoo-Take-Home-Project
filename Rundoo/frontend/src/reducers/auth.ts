@@ -70,10 +70,6 @@ export default function authReducer(
         user: null,
       };
     case actions.SIGNUP_FAIL:
-    case actions.PASSWORD_RESET_SUCCESS:
-    case actions.PASSWORD_RESET_FAIL:
-    case actions.PASSWORD_RESET_CONFIRM_SUCCESS:
-    case actions.PASSWORD_RESET_CONFIRM_FAIL:
     case actions.ACTIVATION_SUCCESS:
     case actions.ACTIVATION_FAIL:
       return {
